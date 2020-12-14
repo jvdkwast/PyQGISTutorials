@@ -1,0 +1,6 @@
+name: qgis_stable
+channels:
+  - defaults
+dependencies:
+  - qgis
+prefix: C:\Users\hansa\Anaconda3\envs\qgis_stable
